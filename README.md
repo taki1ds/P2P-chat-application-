@@ -1,4 +1,4 @@
-#Peer-to-peer chat application with integrated File
+Peer-to-peer chat application with integrated File
 
 real-time messaging alongside file transfers
 
